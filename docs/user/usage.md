@@ -132,7 +132,7 @@ after signing in with `grok login`. Explicit `XAI_API_KEY` connections and custo
 or endpoint configurations do not report subscription limits.
 
 Kiro reports how much of the plan's monthly credits the signed-in account has used, and the day its
-billing cycle resets. Past the allowance with overages on, the bar stays full and is marked
+billing cycle resets. Past the allowance with overages on, the allowance shows 0% left and is marked
 **overage**, since Kiro keeps working at its overage rate. Plans that an organization manages
 without sharing usage show no bar.
 
